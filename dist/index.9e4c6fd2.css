@@ -1,0 +1,45 @@
+.header {
+  border: 1px solid #000;
+  justify-content: space-between;
+  margin: 10px;
+  display: flex;
+}
+
+.nav-items > ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+}
+
+.logo {
+  width: 100px;
+}
+
+.h1_el {
+  color: #000;
+  background-color: red;
+}
+
+.App {
+  background-color: brown;
+}
+
+.card {
+  width: 150px;
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+.card img {
+  width: 100%;
+}
+
+.rest_card_body {
+  justify-content: space-around;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
